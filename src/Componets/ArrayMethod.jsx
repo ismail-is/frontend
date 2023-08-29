@@ -13,7 +13,7 @@ export default function ArrayMethod() {
          <h1 >...........Array method...........</h1>
         <h4>{Array}</h4>
        {Array.map((ok)=>{
-         return <h1 >{ok}</h1>
+         return <h4 >{ok}</h4>
        })}
        <hr color='green'></hr>
        <h1>OBJ</h1>
